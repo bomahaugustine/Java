@@ -5,4 +5,5 @@ public class while_loop {
         int count = 0;
         while (count < 100) {
         }
-        }
+    }
+}
